@@ -6,3 +6,6 @@ Push to deploy:
 
 Node vs PHP:
   https://www.sitepoint.com/sitepoint-smackdown-php-vs-node-js/
+
+Animation Libraries:
+  https://www.sitepoint.com/top-9-animation-libraries-use-2016/
